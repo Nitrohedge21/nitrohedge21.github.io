@@ -57,6 +57,7 @@ main {
 #text-wrapper {
   line-height: 1.2rem;
   font-weight: 300;
+  text-align: justify;
 }
 #text-wrapper a {
   color: cyan;
