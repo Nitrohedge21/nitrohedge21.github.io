@@ -20,8 +20,13 @@ body {
   line-height: 2rem;
   background-color: var(--gray-5);
 }
-header {
-  padding: 2rem 0 4rem 0;
+/* Notes for padding */
+/* 1st -> Pushes the name downwards  		*/
+/* 2nd -> Pushes the theme switcher icon	*/
+/* 3rd -> Pushes the bio towards the name  	*/
+/* 4th -> Pushes the name towards left  	*/
+header {						
+  padding: 1rem 0 1rem 0;  
   display: flex;
   flex-direction: row;
   align-items: flex-start;

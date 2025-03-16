@@ -16,7 +16,8 @@ titles using Unreal Engine 5. This project was made to support my dissertation
 where I proposed ways to improve the gameplay of Sonic The Hedgehog.
 However, it has become a personal project of mine, once again.
 
-[GitHub Repository](https://github.com/Nitrohedge21/Nitro-Framework)
+[GitHub repository](https://github.com/Nitrohedge21/Nitro-Framework)
+<br>[Latest playable build](https://github.com/Nitrohedge21/Nitro-Framework/releases)
 
 **Showcase Video**
 {% include youtube.html id="pO2Xf_ogjJ0" %}
