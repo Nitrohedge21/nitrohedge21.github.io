@@ -5,7 +5,7 @@
     <main>
       {% include header.html %} {% include bio.html %}
       <section class="articles">
-	    {% assign sorted_posts = site.posts | sort: 'order' | sort: 'featured', 'last' %}
+	    {% assign sorted_posts = site.posts | sort: 'order', 'last' %}
         {% for post in sorted_posts %}
         <article class="article">
           <h2 class="article-title">

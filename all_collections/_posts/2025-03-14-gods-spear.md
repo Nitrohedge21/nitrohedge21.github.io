@@ -2,7 +2,7 @@
 layout: post
 title: God's Spear
 date: 2025-03-14
-categories: [projects, unreal engine 5, blueprints, playable demo]
+categories: ["projects", "unreal engine 5", "blueprints", "playable demo"]
 order: 3
 ---
 
