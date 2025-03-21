@@ -60,6 +60,7 @@ main {
   margin: 0 auto;
   max-width: 650px;
   padding: 3rem 0 4rem 0;
+  text-align: justify; /* This was added by me - 21.03.2025*/
 }
 .article {
   margin-bottom: 3rem;
