@@ -20,8 +20,9 @@ I have yet to verify its functionality on actual hardware, making it an interest
 for future exploration.
 
 The project was tested on Gens & Kega Fusion but should be playable on other emulators too.
-<br>[Click here for the playable demo!](https://drive.google.com/file/d/1RUqVq9kiliYUjkzwW0A3T89MMZ40iucd/view?usp=sharing)
 
+[GitHub repository](https://github.com/Nitrohedge21/68k-asm-project)<br>
+<br>[Click here for the playable ROM!](https://drive.google.com/file/d/1RUqVq9kiliYUjkzwW0A3T89MMZ40iucd/view?usp=sharing)
 
-
-
+**Showcase Video**
+{% include youtube.html id="ikCTfDYeRGQ" %}
