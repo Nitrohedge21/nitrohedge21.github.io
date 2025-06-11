@@ -31,9 +31,9 @@ Will be making more pages to include my projects from the old portfolio.
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ** Local video demo **
-{% include video.html src="/assets/videos/csgo.mp4" poster=" " %}
+{% include video.html src="/assets/videos/demo.mp4" poster=" " %}
 
 ** Local video demo with thumbnail **
-{% include video.html src="/assets/videos/csgo.mp4" poster="/assets/thumbnails/demo-thumbnail.jpg" %}
+{% include video.html src="/assets/videos/demo.mp4" poster="/assets/thumbnails/demo-thumbnail.jpg" %}
 
 
