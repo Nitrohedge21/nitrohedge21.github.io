@@ -2,7 +2,7 @@
 layout: post
 title: Megadrive Assembly Project
 date: 2025-03-19
-categories: ["projects", "sega megadrive", "68k assembly", "playable demo"]
+categories: ["projects", "sega megadrive", "assembly", "playable demo"]
 order: 3
 ---
 

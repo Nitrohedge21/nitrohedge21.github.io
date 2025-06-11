@@ -259,3 +259,16 @@ main {
     padding: 1.5rem;
   }
 }
+
+/* This was created with the help of ChatGPT - Ersan 11.06.2025 */
+
+.video-container {
+  max-width: 100%;
+  margin: 1em 0;
+}
+
+.video-container video {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}

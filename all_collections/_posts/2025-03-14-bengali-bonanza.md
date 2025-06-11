@@ -2,7 +2,7 @@
 layout: post
 title: Bengali Bonanza
 date: 2025-03-14
-categories: ["projects", "unreal engine 5", "blueprints", "playable demo"]
+categories: ["projects", "unreal engine", "blueprints", "playable demo"]
 order: 5
 ---
 
