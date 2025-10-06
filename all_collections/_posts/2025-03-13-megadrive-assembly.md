@@ -3,7 +3,7 @@ layout: post
 title: Megadrive Assembly Project
 date: 2025-03-19
 categories: ["projects", "sega megadrive", "assembly", "playable demo"]
-order: 3
+order: 5
 ---
 
 **Role**
