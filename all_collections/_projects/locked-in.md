@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Locked In
-date: 2025-10-06
 categories: ["projects", "unreal engine", "blueprints", "nda"]
 order: 3
 ---

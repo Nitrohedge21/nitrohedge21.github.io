@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Nitro Framework
-date: 2025-03-13
 categories: ["projects", "unreal engine", "cpp", "blueprints", "playable demo"]
 order: 1
 ---

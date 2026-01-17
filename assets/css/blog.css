@@ -148,6 +148,7 @@ main {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
+  margin-top: 0.75rem; /* This was added to add a space in between the title and categories as the dates being removed*/
 }
 .articles .article .categories .category {
   margin: 0 0.5rem 0.3rem 0;
