@@ -17,4 +17,4 @@ the link to the respository.
 
 
 **Showcase Video**
-<br> A video footage will be uploaded upon getting permission.
+{% include video.html src="/assets/videos/locked-in-demo.mp4" %}
