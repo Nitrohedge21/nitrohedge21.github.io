@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Locked In
-categories: ["projects", "unreal engine", "blueprints", "nda"]
+categories: ["projects", "unreal engine", "blueprints", "nda", "contract work"]
 order: 3
 ---
 
