@@ -20,4 +20,9 @@ I will be releasing a playable demo when the first level is ready to be played!
 [Playable demo] No demo available at the moment<br>
 
 **Showcase Video(s)**
-{% include youtube.html id="" %}
+
+Gameplay Showcase (In Progress)
+{% include video.html src="/assets/videos/-" %}
+
+Level Showcase (In Progress)
+{% include video.html src="/assets/videos/-" %}

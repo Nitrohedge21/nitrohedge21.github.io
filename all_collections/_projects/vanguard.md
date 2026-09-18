@@ -22,10 +22,10 @@ I have created the movement systems such as;
 
 **Showcase Video(s)**
 
-Traversal
+Traversal (In Progress)
 {% include video.html src="/assets/videos/vanguard/-" %}
 
-Ledge
+Ledge (In Progress)
 {% include video.html src="/assets/videos/vanguard/-" %}
 
 Swim
