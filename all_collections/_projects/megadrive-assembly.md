@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Megadrive Assembly Project
-categories: ["projects", "sega megadrive", "assembly", "playable demo"]
+categories: ["solo projects", "sega megadrive", "assembly", "playable demo"]
 order: 5
+hidden: false
 ---
 
 **Role**

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Holland Submarine Experience
-categories: ["projects", "unreal engine", "blueprints","nda", "client work"]
-order: 4
+categories: ["solo projects", "unreal engine", "blueprints","nda", "client work"]
+order: 5
 ---
 
 **Role**

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pac-Man on PS5
-categories: ["projects", "playstation 5", "cpp", "nda"]
-order: 2
+categories: ["group projects", "playstation 5", "cpp", "nda"]
+order: 4
 ---
 
 **Role**

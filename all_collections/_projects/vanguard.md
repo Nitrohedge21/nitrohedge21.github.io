@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Vanguard
-categories: ["projects", "unreal engine", "cpp", "blueprints"]
-order: 9
+categories: ["group projects", "unreal engine", "cpp", "blueprints"]
+order: 1
 hidden: false
 ---
 

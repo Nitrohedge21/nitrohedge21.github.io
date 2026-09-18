@@ -18,4 +18,4 @@ selection system and a few more things that were cut due to time constraints.
 [Click here for the playable demo!](https://ggjv4.s3.us-west-1.amazonaws.com/files/games/2024/406662/exec/Windows_High_V6.zip)
 
 **Showcase Video**
-{% include youtube.html id="Bv35dVtN5CQ" %}
+{% include video.html src="/assets/videos/gspear-demo.mp4" %}

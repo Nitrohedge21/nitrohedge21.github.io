@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Nitro Framework
-categories: ["projects", "unreal engine", "cpp", "blueprints", "playable demo"]
-order: 1
+categories: ["solo projects", "unreal engine", "cpp", "blueprints", "playable demo"]
+order: 3
+hidden: false
 ---
 
 **Role**

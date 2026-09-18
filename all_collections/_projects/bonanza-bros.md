@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Bonanza Bros in UE5
-categories: ["projects", "unreal engine", "cpp", "blueprints"]
-order: 8
+categories: ["solo projects", "unreal engine", "cpp", "blueprints"]
+order: 2
 hidden: false
 ---
 
