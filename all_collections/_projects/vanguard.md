@@ -21,4 +21,15 @@ I have created the movement systems such as;
 [Playable demo] No demo available at the moment<br>
 
 **Showcase Video(s)**
-{% include youtube.html id="" %}
+
+Traversal
+{% include video.html src="/assets/videos/vanguard/traversal.mp4" %}
+
+Ledge
+{% include video.html src="/assets/videos/vanguard/-" %}
+
+Swim
+{% include video.html src="/assets/videos/vanguard/swim.mp4" %}
+
+Slide
+{% include video.html src="/assets/videos/vanguard/slide.mp4" %}
