@@ -2,7 +2,7 @@
 layout: post
 title: Megadrive Assembly Project
 categories: ["solo projects", "sega megadrive", "assembly", "playable demo"]
-order: 5
+order: 7
 hidden: false
 ---
 

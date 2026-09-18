@@ -2,7 +2,7 @@
 layout: post
 title: God's Spear
 categories: ["group projects", "unreal engine", "blueprints", "playable demo"]
-order: 6
+order: 8
 ---
 
 **Role**
