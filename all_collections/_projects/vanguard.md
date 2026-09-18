@@ -23,7 +23,7 @@ I have created the movement systems such as;
 **Showcase Video(s)**
 
 Traversal
-{% include video.html src="/assets/videos/vanguard/traversal.mp4" %}
+{% include video.html src="/assets/videos/vanguard/-" %}
 
 Ledge
 {% include video.html src="/assets/videos/vanguard/-" %}
