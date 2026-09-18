@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Tortuga - Laser Quest
-categories: ["projects", "unreal engine", "cpp", "blueprints", "client work"]
+categories: ["group projects", "unreal engine", "cpp", "blueprints", "client work"]
 order: 4
+hidden:
 ---
 
 **Role**

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Bengali Bonanza
-categories: ["projects", "unreal engine", "blueprints", "playable demo"]
-order: 7
+categories: ["group projects", "unreal engine", "blueprints", "playable demo"]
+order:
+hidden: true
 ---
 
 **Role**

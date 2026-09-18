@@ -3,7 +3,7 @@ layout: post
 title: Vanguard
 categories: ["projects", "unreal engine", "cpp", "blueprints"]
 order: 9
-hidden: true
+hidden: false
 ---
 
 **Role**

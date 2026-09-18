@@ -3,7 +3,7 @@ layout: post
 title: Bonanza Bros in UE5
 categories: ["projects", "unreal engine", "cpp", "blueprints"]
 order: 8
-hidden: true
+hidden: false
 ---
 
 **Role**
