@@ -1,0 +1,24 @@
+---
+layout: post
+title: Vanguard
+categories: ["projects", "unreal engine", "cpp", "blueprints"]
+order: 9
+hidden: true
+---
+
+**Role**
+<br> Gameplay Programmer
+
+**Description**
+<br>
+This is a group project being developed in Unreal Engine 5 utilising both cpp & blueprints.
+This group consists of 20+ people working together to create an action adventure game called "Vanguard".
+I have created the movement systems such as;
+- Recreating a basic version of the GASP traversal mechanic.
+- Creating a ledge grab, hop and climb mechanics.
+- Swimming & sliding mechanic.
+
+[Playable demo] No demo available at the moment<br>
+
+**Showcase Video(s)**
+{% include youtube.html id="" %}

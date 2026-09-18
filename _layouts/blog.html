@@ -7,6 +7,7 @@
       <section class="articles">
 	    {% assign sorted_posts = site.projects | sort: 'order', 'last' %} <!-- site.projects was originall site.posts. This was changed to remove dates with new file format-->
         {% for post in sorted_posts %}
+		{% unless post.hidden %}
         <article class="article">
           <h2 class="article-title">
             <a href="{{site.baseurl}}{{post.url}}"> {{post.title}} </a>
@@ -22,6 +23,7 @@
             {% endfor %}
           </div>
         </article>
+		{%endunless%}
         {%endfor%}
       </section>
       {% include footer.html %}
