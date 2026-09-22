@@ -22,4 +22,4 @@ I will be releasing a playable demo when the first level is ready to be played!
 **Showcase Video(s)**
 
 Latest Project Showcase
-{% include video.html src="/assets/videos/bonanza-demo.mp4" %}
+{% include video.html src="/assets/videos/bonanza/bonanza-demo.mp4" %}
