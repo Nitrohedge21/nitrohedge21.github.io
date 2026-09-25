@@ -25,8 +25,8 @@ I have created the movement systems such as;
 Traversal (In Progress)
 {% include video.html src="/assets/videos/vanguard/-" %}
 
-Ledge (In Progress)
-{% include video.html src="/assets/videos/vanguard/-" %}
+Ledge
+{% include video.html src="/assets/videos/vanguard/ledge.mp4" %}
 
 Swim
 {% include video.html src="/assets/videos/vanguard/swim.mp4" %}
