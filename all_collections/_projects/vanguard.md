@@ -22,8 +22,8 @@ I have created the movement systems such as;
 
 **Showcase Video(s)**
 
-Traversal (In Progress)
-{% include video.html src="/assets/videos/vanguard/-" %}
+Traversal
+{% include video.html src="/assets/videos/vanguard/traversal.mp4" %}
 
 Ledge
 {% include video.html src="/assets/videos/vanguard/ledge.mp4" %}
