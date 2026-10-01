@@ -17,8 +17,8 @@ I first discovered it with my brother on Sega Ultimate Genesis collection on PS3
 to see if I could recreate it in the 2.5D perspective and test my current skills and knowledge.
 I will be releasing a playable demo when the first level is ready to be played!
 
-[GitHub repository](https://github.com/Nitrohedge21/bonanza-bros-ue)<br>
-[Playable demo] No demo available at the moment<br>
+[GitHub repository](https://github.com/Nitrohedge21/bonanza-bros-ue)
+<br>[Playable demo] No demo available at the moment<br>
 
 **Showcase Video(s)**
 
