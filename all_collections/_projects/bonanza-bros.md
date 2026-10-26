@@ -18,7 +18,7 @@ to see if I could recreate it in the 2.5D perspective and test my current skills
 I will be releasing a playable demo when the first level is ready to be played!
 
 [GitHub repository](https://github.com/Nitrohedge21/bonanza-bros-ue)<br>
-<br>[Playable demo] No demo available at the moment<br>
+<br>[Playable demo] (https://github.com/Nitrohedge21/bonanza-bros-ue/releases/tag/demo)<br>
 
 **Showcase Video(s)**
 
