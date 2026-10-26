@@ -15,7 +15,6 @@ This is a personal project I am currently developing out of my passion for the n
 called "Bonanza Bros". I have always had a special place on my heart for this game since 
 I first discovered it with my brother on Sega Ultimate Genesis collection on PS3. I wanted
 to see if I could recreate it in the 2.5D perspective and test my current skills and knowledge.
-I will be releasing a playable demo when the first level is ready to be played!
 
 [GitHub repository](https://github.com/Nitrohedge21/bonanza-bros-ue)<br>
 <br>[Playable demo](https://github.com/Nitrohedge21/bonanza-bros-ue/releases/tag/demo)<br>
